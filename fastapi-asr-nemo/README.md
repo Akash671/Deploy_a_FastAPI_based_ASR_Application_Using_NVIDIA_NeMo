@@ -5,9 +5,9 @@ Uses the Hindi Conformer CTC Medium model from [NVIDIA NeMo](https://catalog.ngc
 
 ##  Run Locally
 
-# download "stt_hi_conformer_ctc_medium.nemo" model using below URL:
+# download "stt_hi_conformer_ctc_medium.nemo" model using the below URL:
 URL : https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_hi_conformer_ctc_medium
-then copy this model form download folder to "fastapi-asr-nemo\models\" location
+then copy this model from the download folder to "fastapi-asr-nemo\models\" location
 
 # Build Docker image
 $ docker build -t asr-nemo .

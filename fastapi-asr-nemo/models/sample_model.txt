@@ -1,0 +1,1 @@
+download nvidia model "stt_hi_conformer_ctc_medium.nemo" and place here
